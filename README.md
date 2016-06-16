@@ -1,5 +1,7 @@
 ## Lede 2016 Blog + Links
 
+Feel free to add your own via pull request or Slack me with any links you would like to share.
+
 ### Monica Powell
 ![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
 https://twitter.com/waterproofheart
