@@ -11,3 +11,15 @@ http://blacktechdiva.com
 
 ![Blog RSS](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/feed.png)
 http://feeds.feedburner.com/BlackTechDiva
+
+
+### Paul Ronga
+![Twitter](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/twitter.png)
+https://twitter.com/palrogg
+
+![Website](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://paulronga.ch/
+
+!["Secret recipe" api :-)](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
+http://paulronga.ch/recipe-api/api.json
+
