@@ -21,5 +21,5 @@ https://twitter.com/palrogg
 http://paulronga.ch/
 
 !["Secret recipe" api :-)](https://raw.githubusercontent.com/code-newbies/codenewbie-resources/master/images/icons/blog.png)
-http://paulronga.ch/recipe-api/api.json
+http://paulronga.ch/recipe-api/
 
